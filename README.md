@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [henjesh12@github.io](henjesh12@github.io)
+- 👨‍💻 All of my projects are available at [henjesh12.github.io](henjesh12@github.io)
 
 - 💬 Ask me about **MERN**
 
